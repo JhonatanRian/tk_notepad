@@ -18,4 +18,4 @@ $ python3 main.py
 
 #### exemple of use:
 
-![exemple](https://i9.ytimg.com/vi/bes3GhJleQI/mq2.jpg?sqp=CLimkYgG&rs=AOn4CLCxTrcEwcOLxeHJPxiGlwHFg5g6_A)
+![exemple](https://raw.githubusercontent.com/JhonatanRian/tk_notepad/main/exemple/tkinter-_online-video-cutter.com_.gif)
