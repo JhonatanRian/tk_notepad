@@ -9,7 +9,7 @@
 ✅ tkinter
 
 #### Requeriments:
-* python instaled
+* python3 instaled
 
 #### to run notepad type in the terminal the command:
 ~~~
