@@ -17,5 +17,3 @@
 ~~~
 $ python3 main.py
 ~~~
-
-#### exemple of use:
